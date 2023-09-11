@@ -1,5 +1,9 @@
 # week9cloud
 
+![Alt text](../1.png)
+
+![Alt text](../2.png)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
